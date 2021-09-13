@@ -55,11 +55,11 @@
     "eslint": "^4.17.0",
     "eslint-plugin-vue": "^4.2.2",
     "poi": "^9.3.10",
-    "rollup-plugin-vue": "^3.0.0",
+    "rollup-plugin-vue": "^5.0.0",
     "test-vue-app": "^1.0.0",
     "vue-test-utils": "^1.0.0-beta.11"
   },
   "peerDependencies": {
-    "vue": "^2.1.8"
+    "vue": "^2.6.12"
   }
 }
